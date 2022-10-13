@@ -39,6 +39,7 @@ export default function Characters(props){
                             <span className="text-grey">Especie: </span>
                             <span>{character.species}</span>
 
+
                         </p>
                     </div>
                 </div>
